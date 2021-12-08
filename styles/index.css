@@ -1,0 +1,9 @@
+@tailwind base;
+
+html {
+  font-family: sans-serif;
+  @apply text-gray1;
+}
+
+@tailwind components;
+@tailwind utilities;
